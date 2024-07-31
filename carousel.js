@@ -1,7 +1,7 @@
 let imageArray = [];
 let currentSlide = 0;
 let count = 0;
-let imageUrls = ['/img/exa1.jpeg','/img/exa2.jpeg','/img/exa3.jpeg'];
+let imageUrls = ['img/exa1.jpeg','img/exa2.jpeg','img/exa3.jpeg'];
 
 function getImages() {
     imageArray = [...imageUrls];
